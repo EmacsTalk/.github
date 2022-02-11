@@ -1,5 +1,3 @@
-## EmacsTalk
-
 EmacsTalk 是一档专注在 Emacs 社区的程序员闲聊节目。节目主旨：
 
 -   专注 Emacs 社区，探索 Emacs 社区背后的 **奇人轶事**
@@ -7,6 +5,7 @@ EmacsTalk 是一档专注在 Emacs 社区的程序员闲聊节目。节目主旨
 
 # 联系方式
 
+- https://emacstalk.github.io/
 -   <https://twitter.com/EmacsTalk>
 -   QQ 听友群：[530146104](https://jq.qq.com/?_wv=1027&k=9tAXJ8gG)
 -   TG 听友群：<https://t.me/emacstalk>
